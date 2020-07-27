@@ -1,0 +1,3 @@
+--doc This is doc %{HOME}
+--variable sdf:xxh
+-i  111
